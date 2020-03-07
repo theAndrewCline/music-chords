@@ -1,0 +1,27 @@
+{
+  "name": "music-chords",
+  "version": "1.0.0",
+  "description": "small library for transposing chords",
+  "main": "Chords.elm",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theAndrewCline/music-chords.git"
+  },
+  "keywords": [
+    "Chords",
+    "Music",
+    "Elm"
+  ],
+  "author": "Andrew Cline & Jacob Barrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theAndrewCline/music-chords/issues"
+  },
+  "homepage": "https://github.com/theAndrewCline/music-chords#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
